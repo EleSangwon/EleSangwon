@@ -1,5 +1,6 @@
 ### Who Am I
 - 🌱 Currently studying at Soongsil University
+- Contributor to the Kubernetes open source exporterhub.io
 
 ### Interest
 - Cloud native 
