@@ -8,5 +8,5 @@
 - Become Devops engineer
 
 ### Certificate
-- 🎓 CKA (Certified Kubernetes Administrator) 
-- 💊 AWS SAA (AWS Solutions Architect - Associate) 
+* [AWS-SAA](https://github.com/EleSangwon/AWS-SAA)
+* [CKA] (https://github.com/EleSangwon/CKA)
