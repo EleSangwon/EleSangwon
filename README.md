@@ -9,4 +9,4 @@
 
 ### Certificate
 * [AWS-SAA](https://github.com/EleSangwon/AWS-SAA)
-* [CKA] (https://github.com/EleSangwon/CKA)
+* [CKA](https://github.com/EleSangwon/CKA)
