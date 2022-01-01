@@ -6,7 +6,7 @@
 
 # Technology Stack  
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20BASH&logoColor=white)
-![Github Action](https://img.shields.io/badge/Github_Action-2088FF?style=for-the-badge&logo=GNU%20GitHub Actions&logoColor=white)
+![Github Action](https://img.shields.io/badge/Github_Action-2088FF?style=for-the-badge&logo=GNU%20GitHub-Actions&logoColor=white)
 
 # Now Learning
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white) ![Terrafrom](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
