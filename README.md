@@ -5,10 +5,15 @@
 - Graduated from Soongsil University in February 2022 
 
 # Technology Stack  
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20BASH&logoColor=white)
-![Github Action](https://img.shields.io/badge/Github_Action-2088FF?style=for-the-badge&logo=GNU%20GitHub-Actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=GNU%20Terraform&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA-E8E8E8?style=for-the-badge&logo=GNU%20OPA&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=black"/>
+<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat-square&logo=Amazon EKS&logoColor=black"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=black"/>
+<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=Github Actions&logoColor=black"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=Vault&logoColor=white"/>
+
+
 # Currently Learning
 Eks Cost Optimization (as a personal project)
 
