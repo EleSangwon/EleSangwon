@@ -24,7 +24,3 @@ OPA GateKeeper (Policy as code in K8S)
 * [AWS-SAA](https://github.com/EleSangwon/AWS-SAA)
 * [CKA](https://github.com/EleSangwon/CKA)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EleSangwon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleSangwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=F2CB61&height=100&section=footer)
