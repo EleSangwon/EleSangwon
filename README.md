@@ -13,9 +13,8 @@
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=Vault&logoColor=white"/>
 
-
 # Currently Learning
-Eks Cost Optimization (as a personal project)
+[Eks Cost Optimization](https://github.com/devops-sangwon/eks-cost-project) (as a personal project)
 
 # Recent Interests
 OPA GateKeeper (Policy as code in K8S)  
