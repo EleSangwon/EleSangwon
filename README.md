@@ -13,6 +13,23 @@
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=Vault&logoColor=white"/>
 
+<h1>My online courses</h1> 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-github-actions-ci-cd-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" title="실전! Github Actions으로 CI/CD 시작하기">
+          <img align="center" src="https://github.com/EleSangwon/EleSangwon/assets/50174803/e2c3482a-ebb6-4d37-aa83-3c78de374fea" width="300" alt-text="GithubActions">
+        </a>
+      </td>
+     <td>
+      실전! Github Actions으로 CI/CD 시작하기
+     </td>
+    </tr>
+  </tbody>
+</table>
+
+
 # My Activity
 * [ActivityHub](https://github.com/EleSangwon/ActivityHub)
 
